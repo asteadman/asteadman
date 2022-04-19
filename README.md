@@ -3,9 +3,9 @@
 ### Programmer & Hacker
 
 - Noob to Elite Hacker in 3 months on [HTB](https://www.hackthebox.com/)
-- Top 10 in [picoCTF 2022](https://play.picoctf.org/events/70)
+- Top 10 in [picoCTF 2022](https://play.picoctf.org/events/70).
 - I specialize in Binary Exploitation (including Kernel)
-- MSc in Digital Communications, completed thesis on Variable-length Channel Codes
+- MSc in Digital Communication systems, completed thesis on Variable-length Channel Codes
 - C, C++, x86_64, Python, React, OpenGL
 
 #### [Homepage](https://www.andrewsteadman.com)
