@@ -1,6 +1,12 @@
 ## Andrew Steadman
 
-### Programmer & Hardware Hacker
+### Programmer & Hacker
 
-- [Homepage](https://www.andrewsteadman.com)
-- [Projects](https://www.nullhardware.com)
+- Noob to Elite Hacker in 3 months on [HTB](https://www.hackthebox.com/)
+- Top 10 in [picoCTF 2022](https://play.picoctf.org/events/70)
+- I specialize in Binary Exploitation (including Kernel)
+- MSc in Digital Communications, completed thesis on Variable-length Channel Codes
+- C, C++, x86_64, Python, React, OpenGL
+
+#### [Homepage](https://www.andrewsteadman.com)
+#### [Projects/Writeups](https://www.nullhardware.com)
