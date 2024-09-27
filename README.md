@@ -1,7 +1,5 @@
 ## Andrew Steadman
 
-***HIRE ME!*** - I'm currently available for work! I'm interested in *remote* Software developer roles available to Canadians! https://www.linkedin.com/in/andrewsteadman/
-
 ### Programmer & Hacker
 
 - Noob to Elite Hacker in 3 months on [HTB](https://www.hackthebox.com/)
